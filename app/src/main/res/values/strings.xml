@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Abasteça Já</string>
+    <string name="tvValorGasolina">Insira o valor da Gasolina</string>
+    <string name="etValorGasolina">Valor Gasolina $</string>
+    <string name="tvValorEtanol">Insira o valor do Etanol</string>
+    <string name="etValorEtanol">Valor Etanol $</string>
+    <string name="btnCalcular">Calcular</string>
+
+</resources>
